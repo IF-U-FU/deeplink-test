@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tcs.victory",
+      "sha256_cert_fingerprints": [
+        "EB:B8:C8:9D:E7:64:02:97:F4:08:1A:9B:08:3B:6A:72:82:B7:CA:BA:F3:82:FC:77:23:33:DC:C5:32:71:EA:D5"
+      ]
+    }
+  }
+]
